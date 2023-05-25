@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;700&display=swap');
 body {
         font-family: 'IBM Plex Sans', sans-serif;
-        background-image: url("./assets/bg-main-mobile.png");
+        background-image: url("./bg-main-mobile.png");
         background-repeat: no-repeat;
         background-position-y: -250px;
 }
@@ -195,7 +195,7 @@ a {
 
 @media only screen and (min-width: 800px) {
         body {
-        background-image: url("./assets/bg-pattern-1.svg"), url("./assets/bg-main-mobile.png"), url("./assets/bg-main-tablet.png");
+        background-image: url("./bg-pattern-1.svg"), url("./bg-main-mobile.png"), url("./bg-main-tablet.png");
         background-position-y: -40px, -20px, -250px;
         background-position-x: 530px, 170px, -350px;
         }
@@ -292,7 +292,7 @@ a {
 
 @media only screen and (min-width: 1440px) {
         body {
-                background-image: url("./assets/bg-pattern-1.svg"), url("./assets/bg-main-desktop.png");
+                background-image: url("./bg-pattern-1.svg"), url("./bg-main-desktop.png");
                 background-position-y: -40px, -250px;
                 background-position-x: 1128px, -300px;
         }
